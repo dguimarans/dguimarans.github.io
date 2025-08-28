@@ -22,10 +22,10 @@ repository               : "dguimarans/dguimarans.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "climbing.jpg"
+  avatar           : "keynote_OPTIMA.png"
   name             : "Daniel Guimarans"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Principal Research Scientist at Amazon | Supply Chain, Logistics & Transportation Optimization | Bridging advanced mathematical techniques with real-world problem solving"
   location         : "Barcelona, Spain"
   employer         : "Amazon"
   uri              : # URL
