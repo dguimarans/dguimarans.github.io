@@ -1,13 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a Principal Research Scientist at [Amazon](https://www.amazon.science/), with combined experience on academic research and consultancy projects for government and industry on transportation and logistics, aviation, and software solutions.
+
+Prior to Amazon, I held positions as Research Fellow in the [Data Science and Artificial Intelligence group](https://research.monash.edu/en/organisations/data-science-ai) of [Monash University](https://www.monash.edu/) (Australia), Senior Lecturer – Researcher (Hogeschool Hoofddocent) at the [Aviation Academy](https://research.hva.nl/en/organisations/aviation-management) of the  [Amsterdam University of Applied Sciences](http://www.amsterdamuas.com/) (Netherlands), and worked as a Researcher in the Optimisation Research Group of NICTA, currently [Data61](http://www.data61.csiro.au/) (Australia).
+
+My research is mainly focussed on the hybridisation of optimisation methods and their combination with simulation techniques to solve stochastic and complex problems. Most of my work is aimed at solving large-scale transportation and logistics problems.
+
+**Areas of research:** Optimisation, Constraint Programming, Heuristics and Metaheuristics, Simulation.
+
+**Application areas:** Transportation, Routing, Aviation, Scheduling, Logistics, Network Design, Supply Chain.
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +63,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
