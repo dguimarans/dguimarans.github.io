@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Principal Research Scientist at [Amazon](https://www.amazon.science/), with combined experience on academic research and consultancy projects for government and industry on transportation and logistics, aviation, and software solutions.
+I am a Principal Scientist at [Lyric](https://lyric.tech/) and previously a Principal Research Scientist (L7) at [Amazon](https://www.amazon.science/). My experience combines academic research and consultancy projects for government and industry on transportation and logistics, aviation, and software solutions.
 
-Prior to Amazon, I held positions as Research Fellow in the [Data Science and Artificial Intelligence group](https://research.monash.edu/en/organisations/data-science-ai) of [Monash University](https://www.monash.edu/) (Australia), Senior Lecturer – Researcher (Hogeschool Hoofddocent) at the [Aviation Academy](https://research.hva.nl/en/organisations/aviation-management) of the  [Amsterdam University of Applied Sciences](https://www.amsterdamuas.com/) (Netherlands), and worked as a Researcher in the Optimisation Research Group of [NICTA](https://en.wikipedia.org/wiki/NICTA), currently part of [CSIRO](https://www.csiro.au/en/research/technology-space) (Australia).
+Prior to Amazon, I held positions as Research Fellow in the [Data Science and Artificial Intelligence group](https://research.monash.edu/en/organisations/data-science-ai) of [Monash University](https://www.monash.edu/) (Australia), Senior Lecturer – Researcher (Hogeschool Hoofddocent) at the [Aviation Academy](https://research.hva.nl/en/organisations/aviation-management) of the [Amsterdam University of Applied Sciences](https://www.amsterdamuas.com/) (Netherlands), and worked as a Researcher in the Optimisation Research Group of [NICTA](https://en.wikipedia.org/wiki/NICTA), currently part of [CSIRO](https://www.csiro.au/en/research/technology-space) (Australia).
 
-My research is mainly focussed on the hybridisation of optimisation methods and their combination with simulation techniques to solve stochastic and complex problems. Most of my work is aimed at solving large-scale transportation and logistics problems.
+My research focuses on integrating AI and agentic workflows with large-scale optimisation for supply chain, transportation and logistics problems, as well as the hybridisation of optimisation methods and simulation techniques for solving stochastic and complex problems.
 
-**Areas of research:** Optimisation, Constraint Programming, Heuristics and Metaheuristics, Simulation.
+**Areas of research:** Optimisation, AI and Agentic Workflows, Constraint Programming, Heuristics and Metaheuristics, Simulation.
 
-**Application areas:** Transportation, Routing, Aviation, Scheduling, Logistics, Network Design, Supply Chain.
+**Application areas:** Supply Chain, Transportation, Routing, Logistics, Network Design, Scheduling, Aviation.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 

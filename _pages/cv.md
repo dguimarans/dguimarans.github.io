@@ -33,45 +33,39 @@ Education
 Work experience
 ======
 
-* **Principal Research Scientist** (2022 -- present)
+* **Principal Scientist** (Feb 2026 -- )
+  * Lyric
+  * Barcelona (Spain) 
+
+* **Principal Research Scientist** (Apr 2022 -- Dec 2025)
   * Amazon 
   * Barcelona (Spain) / Luxembourg (Luxembourg)
 
-* **Senior Research Scientist** (2020 -- 2022)
+* **Senior Research Scientist** (Feb 2020 -- Mar 2022)
   * Amazon
   * Luxembourg (Luxembourg)
 
-* **Research Fellow** (2019 -- 2020)
+* **Research Fellow** (Feb 2019 -- Jan 2020)
   * Data Science & Artificial Intelligence, Faculty of IT
   * Monash University
   * Melbourne (Australia)
 
-* **Senior Researcher – Lecturer** (2015 -- 2019)
+* **Senior Researcher – Lecturer** (Oct 2015 -- Jan 2019)
   * Aviation Academy
   * Amsterdam University of Applied Sciences
   * Amsterdam (Netherlands)
 
-* **Researcher** (2013 -- 2015)
+* **Researcher** (Mar 2013 -- Oct 2015)
   * Optimisation Research Group
   * National ICT Australia (NICTA)
   * Sydney (Australia)
 
-* **Postdoctoral Researcher** (2012 -- 2013)
+* **Postdoctoral Researcher / Adjunct Lecturer** (Aug 2012 -- Feb 2013)
   * Department of Telecommunications and Systems Engineering
   * Universitat Autònoma de Barcelona
   * Barcelona (Spain)
 
-* **PhD Researcher** (2007 -- 2012)
-  * Department of Telecommunications and Systems Engineering
-  * Universitat Autònoma de Barcelona
-  * Barcelona (Spain)
-
-* **Researcher** (2005 -- 2007)
-  * Department of Telecommunications and Systems Engineering
-  * Universitat Autònoma de Barcelona
-  * Barcelona (Spain)
-
-* **Adjunct Lecturer** (2005 -- 2013)
+* **PhD Researcher / Adjunct Lecturer** (Apr 2005 -- Jul 2012)
   * Department of Telecommunications and Systems Engineering
   * Universitat Autònoma de Barcelona
   * Barcelona (Spain)
