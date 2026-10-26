@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Principal Scientist at [Lyric](https://lyric.tech/) and previously a Principal Research Scientist (L7) at [Amazon](https://www.amazon.science/). My experience combines academic research and consultancy projects for government and industry on transportation and logistics, aviation, and software solutions.
+I am a Principal AI Scientist at [Lyric](https://lyric.tech/) and previously a Principal Research Scientist (L7) at [Amazon](https://www.amazon.science/). My experience combines academic research and consultancy projects for government and industry on transportation and logistics, aviation, and software solutions.
 
 Prior to Amazon, I held positions as Research Fellow in the [Data Science and Artificial Intelligence group](https://research.monash.edu/en/organisations/data-science-ai) of [Monash University](https://www.monash.edu/) (Australia), Senior Lecturer – Researcher (Hogeschool Hoofddocent) at the [Aviation Academy](https://research.hva.nl/en/organisations/aviation-management) of the [Amsterdam University of Applied Sciences](https://www.amsterdamuas.com/) (Netherlands), and worked as a Researcher in the Optimisation Research Group of [NICTA](https://en.wikipedia.org/wiki/NICTA), currently part of [CSIRO](https://www.csiro.au/en/research/technology-space) (Australia).
 

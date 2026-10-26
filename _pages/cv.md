@@ -33,11 +33,11 @@ Education
 Work experience
 ======
 
-* **Principal Scientist** (Feb 2026 -- )
+* **Principal AI Scientist** (Feb 2026 -- )
   * Lyric
   * Barcelona (Spain) 
 
-* **Principal Research Scientist** (Apr 2022 -- Dec 2025)
+* **Principal Research Scientist** (Apr 2022 -- Jan 2026)
   * Amazon 
   * Barcelona (Spain) / Luxembourg (Luxembourg)
 
