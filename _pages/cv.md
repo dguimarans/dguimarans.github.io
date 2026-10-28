@@ -50,7 +50,7 @@ Work experience
   * Monash University
   * Melbourne (Australia)
 
-* **Senior Researcher – Lecturer** (Oct 2015 -- Jan 2019)
+* **Senior Researcher / Senior Lecturer** (Oct 2015 -- Jan 2019)
   * Aviation Academy
   * Amsterdam University of Applied Sciences
   * Amsterdam (Netherlands)
